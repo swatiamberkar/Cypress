@@ -1,0 +1,55 @@
+[
+    {
+        "FatherName": "testdata",
+        "Department": "HR",
+		"Designation": "Salesman",
+		"MaritalStatus": "Single",
+		"ConfirmationPeriodMonth": "1",
+		"RetirementAge" : "58",
+		"DateOfAnniversary" : "09/12/2015",
+		"PfAccountNo" : "467545755",
+		"EsiNo" : "467545755",
+		"Grade" : "A",
+		"NoOfChildren" : "2",
+		"CostCentre" : "MUMBAI",
+		"Branch" : "Mumbai",
+		"UanNumber" : "124354ERT459",
+		"EmpPf" : "3.67",
+		"PensionFund" : "8.33",
+		"StopPayment" : "Yes",
+		"BankName" : "HDFC",
+		"Location" : "Mumbai",
+		"PayMode" : "Account Transfer",
+		"Payrollprocess" : "No",
+		"SeniorCitizen" : "No",
+		
+		
+		
+		"PersonalEmailId" : "greytrixtest@gmail.com",
+		"Remarks" : "Update Details",
+		"Phone" : "7378541418",
+		"BloodGroup" : "B+",
+		"Address1" : "mumbai",
+		"Address2" : "Pune",
+		"Place" : "thane",
+		"City" : "Maharastra",
+		"PinCode" : "761012",
+		"EmailId" : "greytrixtest@gmail.com",
+		"PrintCheque" : "No",
+		"BankAccountNumber" :"43456785346575",
+		"BankBranchCode" : "AXIS12005",
+		"CorrespondenceAddress1" : "Basudevpur",
+		"CorrespondenceAddress2" : "Ganjam",
+		"CorrespondencePlace" : "Odisha",
+		"CorrespondenceCity" : "BBSR",
+		"CorrespondencePhone" : "977199705",
+		"CorrespondencePinCode" : "400705",
+		"PersonalMobileNo" : "977199705",
+		"OfficeMobileNo" : "250234",
+		"OfficeExtensionNo" : "06814",
+		"Handicap" : "No"
+		
+		
+     }
+    
+]

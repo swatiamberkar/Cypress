@@ -1,0 +1,17 @@
+{
+  "baseUrl": "http://next.pockethrms.com/",
+  "failOnStatusCode": false,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 5000,
+  "responseTimeout": 30000,
+  "projectId": "eoaw6a",
+  "video": true,
+  "chromeWebSecurity":false,
+  
+  "env": {
+    "url": "http://next.pockethrms.com",
+    "username": "nileshgajare@live.com", 
+	"userPass" : "123456"
+  }
+ 
+ }

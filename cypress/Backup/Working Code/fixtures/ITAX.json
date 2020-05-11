@@ -1,0 +1,44 @@
+[	
+	{
+		"Earnings"							: 	"EARNED BASIC",
+        "MatchingComponent"					: 	"FB|FIXED BASIC",
+		"ExemptionComponent"				:	"",
+		"Projection" 						: 	"Yes",
+		"GrossSection" 						: 	"17(1)",
+		"OrderNo" 							: 	"1",
+		"Operator" 							: 	"+",
+		"OtherComponents" 					: 	"AB"
+		
+   	},  
+	{
+		"Earnings"							: 	"Project Allowance",
+        "MatchingComponent"					: 	"FPROJ|Master Project Allowance",
+		"ExemptionComponent"				:	"",
+		"Projection" 						: 	"Yes",
+		"GrossSection" 						: 	"17(1)",
+		"OrderNo" 							: 	"2",
+		"Operator" 							: 	"+",
+		"OtherComponents" 					: 	"APROJ"
+		
+   	}, 
+	{
+		"Earnings"							: 	"Field Allowance",
+        "MatchingComponent"					: 	"FFIELD|Master Field Allowance",
+		"ExemptionComponent"				:	"",
+		"Projection" 						: 	"Yes",
+		"GrossSection" 						: 	"17(1)",
+		"OrderNo" 							: 	"3",
+		"Operator" 							: 	"+",
+		"OtherComponents" 					: 	"AFIELD"	
+   	}, 
+	{
+		"Earnings"							: 	"Earned HRA",
+        "MatchingComponent"					: 	"FHRA|Fixed HRA",
+		"ExemptionComponent"				:	"House Rent Allowance",
+		"Projection" 						: 	"Yes",
+		"GrossSection" 						: 	"17(1)",
+		"OrderNo" 							: 	"4",
+		"Operator" 							: 	"+",
+		"OtherComponents" 					: 	"AHRA"	
+   	 }	
+]

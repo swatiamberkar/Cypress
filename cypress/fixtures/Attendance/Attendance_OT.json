@@ -1,0 +1,66 @@
+[	
+	{
+		"ExcessStayConsiderAs"						: 	"OT",
+		"ShiftName"									: 	"General",
+		
+		"OverTimeWillStartHours_HH"					:	"4",
+		"OverTimeWillStartHours_MM" 				: 	"00",
+		
+		"MinimumOTHourAllowedPerDay_HH" 			: 	"1",
+		"MinimumOTHourAllowedPerDay_MM" 			: 	"00",
+		
+		"MaximumOTHourAllowedPerDay_HH" 			: 	"4",
+		"MaximumOTHourAllowedPerDay_MM" 			: 	"00",
+		
+		"EarlyComingToShiftConsideredAsOT"			: 	"Yes",	
+		
+		"EarlyOTIfPunchBefore_HH" 					: 	"9",
+		"EarlyOTIfPunchBefore_MM" 					: 	"30",
+		
+		"OTBreakHour_HH" 							: 	"00",
+		"OTBreakHour_MM" 							: 	"10",	
+		
+		"EarlyOTBreakHour_HH" 						: 	"00",
+		"EarlyOTBreakHour_MM" 						: 	"00",
+		
+		"LateComingHoursDeductionFromOT" 			: 	"Yes",
+		"OTSlipIsMandatory" 						: 	"No",	
+		"OTRoundingType" 							: 	"Nill",
+		"OTRounding" 								: 	"Nill",
+		"WeekOffWorkingHoursConsiderAsOT" 			: 	"Yes",
+		"OTApprovalESS" 							: 	"Yes"
+		
+   	} ,	
+	{
+		"ExcessStayConsiderAs"						: 	"OT",
+		"ShiftName"									: 	"Second",
+		
+		"OverTimeWillStartHours_HH"					:	"4",
+		"OverTimeWillStartHours_MM" 				: 	"00",
+		
+		"MinimumOTHourAllowedPerDay_HH" 			: 	"1",
+		"MinimumOTHourAllowedPerDay_MM" 			: 	"00",
+		
+		"MaximumOTHourAllowedPerDay_HH" 			: 	"4",
+		"MaximumOTHourAllowedPerDay_MM" 			: 	"00",
+		
+		"EarlyComingToShiftConsideredAsOT"			: 	"Yes",	
+		
+		"EarlyOTIfPunchBefore_HH" 					: 	"9",
+		"EarlyOTIfPunchBefore_MM" 					: 	"30",
+		
+		"OTBreakHour_HH" 							: 	"00",
+		"OTBreakHour_MM" 							: 	"10",	
+		
+		"EarlyOTBreakHour_HH" 						: 	"00",
+		"EarlyOTBreakHour_MM" 						: 	"00",
+		
+		"LateComingHoursDeductionFromOT" 			: 	"Yes",
+		"OTSlipIsMandatory" 						: 	"No",	
+		"OTRoundingType" 							: 	"Nill",
+		"OTRounding" 								: 	"Nill",
+		"WeekOffWorkingHoursConsiderAsOT" 			: 	"Yes",
+		"OTApprovalESS" 							: 	"Yes"
+   	} 
+	
+]

@@ -1,0 +1,40 @@
+
+[
+    {
+        "FieldName"				:	"Carloan",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"ESI_Eligibility"		: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+	{
+        "FieldName"				: 	"Educationloan",
+		"Dirper" 				: 	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"ESI_Eligibility"		: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""		
+    },
+	{
+        "FieldName"				: 	"Homeloan",
+		"Dirper" 				: 	"Direct",
+		"Rounding" 				: 	"",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"ESI_Eligibility"		: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    }
+	
+]

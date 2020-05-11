@@ -1,0 +1,43 @@
+{
+  "name": "pockethrms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "parallelism": 5,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome",
+    "cypress:run:firefox": "cypress run --browser firefox"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0",
+    "cypress-file-upload": "^3.5.3",
+    "cypress-form-data-with-file-upload": "^1.0.0",
+    "cypress-wait-until": "^1.6.1",
+    "cypress-xpath": "^1.4.0",
+    "jdk": "0.0.0",
+    "start-server-and-test": "^1.11.0"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "circleci": "^0.3.3",
+    "convert-excel-to-json": "^1.6.1",
+    "crypto-js": "^4.0.0",
+    "cypress-downloadfile": "^1.1.5",
+    "cypress-iframe": "^1.0.1",
+    "file-system": "^2.2.2",
+    "fs-extra": "^8.1.0",
+    "node-pre-gyp": "^0.14.0",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^1.1.8",
+    "python": "0.0.4",
+    "read-excel-file": "^4.0.5",
+    "request": "^2.88.2",
+    "sikuli": "^1.0.0",
+    "xlsx": "^0.15.5"
+  }
+}

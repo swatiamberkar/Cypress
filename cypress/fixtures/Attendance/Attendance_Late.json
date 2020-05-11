@@ -1,0 +1,37 @@
+[	
+	{
+		"ShiftName"									: 	"General",
+        "DailyGraceTime_HH"							: 	"0",
+		"DailyGraceTime_MM"							:	"15",
+		"Deduction" 								: 	"No",
+		"DeductionFrom1stMinute" 					: 	"No",
+		"AllowedFlexTime" 							: 	"No",
+		"LunchLateNeedToIncludeInLateReport"		: 	"No",		
+		"LateTimeAdjustedAsExcessWorkHours" 		: 	"No",
+		"EarlyGoingNotAddToLate" 					: 	"Yes",
+		"LateRoundingType" 							: 	"Nill",		
+		"LateRounding" 								: 	"Nill",
+		"RoundingUsedFor" 							: 	"Both",
+		"NoOfPermissionInAMonth" 					: 	"3",	
+		"LateAsPerShiftHours" 						: 	"Yes"
+   	} ,
+	
+	{
+		"ShiftName"									: 	"Second",
+        "DailyGraceTime_HH"							: 	"0",
+		"DailyGraceTime_MM"							:	"15",
+		"Deduction" 								: 	"No",
+		"DeductionFrom1stMinute" 					: 	"No",
+		"AllowedFlexTime" 							: 	"No",
+		"LunchLateNeedToIncludeInLateReport"		: 	"No",		
+		"LateTimeAdjustedAsExcessWorkHours" 		: 	"No",
+		"EarlyGoingNotAddToLate" 					: 	"Yes",
+		"LateRoundingType" 							: 	"Nill",		
+		"LateRounding" 								: 	"Nill",
+		"RoundingUsedFor" 							: 	"Both",
+		"NoOfPermissionInAMonth" 					: 	"3",	
+		"LateAsPerShiftHours" 						: 	"Yes"
+		
+   	} 
+	
+]

@@ -1,0 +1,36 @@
+[	
+	{
+		"ExcessStayConsiderAs"					: 	"CompOff",
+		"ShiftName"								: 	"General",
+		
+		"ExcessStayHoursUpto_HH"				:	"9",
+		"ExcessStayHoursUpto_MM" 				: 	"00",
+		
+		"ExcessStayHoursUpto_From_HH" 			: 	"8",
+		"ExcessStayHoursUpto_From_MM" 			: 	"00",
+		
+		"ExcessStayHoursUpto_To_HH" 			: 	"10",
+		"ExcessStayHoursUpto_From_MM" 			: 	"00",
+	
+		"RoundingType" 							: 	"Normal",
+		"Rounding" 								: 	"Minutes15"
+		
+   	} ,		
+	{
+		"ExcessStayConsiderAs"					: 	"CompOff",
+		"ShiftName"								: 	"Second",
+		
+		"ExcessStayHoursUpto_HH"				:	"9",
+		"ExcessStayHoursUpto_MM" 				: 	"00",
+		
+		"ExcessStayHoursUpto_From_HH" 			: 	"8",
+		"ExcessStayHoursUpto_From_MM" 			: 	"00",
+		
+		"ExcessStayHoursUpto_To_HH" 			: 	"10",
+		"ExcessStayHoursUpto_From_MM" 			: 	"00",
+	
+		"RoundingType" 							: 	"Normal",
+		"Rounding" 								: 	"Minutes15"
+   	} 
+	
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "FieldName"				:	"Car Loan",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	"",
+		"ESI_Eligibility"		: 	""
+    },
+	
+	{
+        "FieldName"				: 	"Educationloan",
+		"Dirper" 				: 	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	"",
+		"ESI_Eligibility"		: 	""
+    },
+
+	{
+        "FieldName"				: 	"Homeloan",
+		"Dirper" 				: 	"Direct",
+		"Rounding" 				: 	"",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"ESI_Eligibility"		: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+	{
+        "FieldName"				: 	"Pf Amount",
+		"Dirper" 				: 	"Percentage",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"EB",
+		"Percent" 				: 	"12",
+		"Maximum" 				: 	"12",
+		"ESI_Eligibility"		: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+		
+    },	
+	{
+        "FieldName"				: 	"Professional Tax",
+		"Dirper" 				: 	"Percentage",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"EB",
+		"Percent" 				: 	"100",
+		"Maximum" 				: 	"100",
+		"ESI_Eligibility"		: 	"FB",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+		
+    },
+	{
+        "FieldName"				: 	"Income Tax",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"ESI_Eligibility"		: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    }
+]

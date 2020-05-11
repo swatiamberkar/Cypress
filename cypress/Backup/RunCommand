@@ -1,0 +1,4 @@
+"cypress:run": "cypress run --browser chrome",
+
+
+"cypress:run": "cypress run --record --key cdaa19bd-d11c-410b-be3b-fd507167b754"

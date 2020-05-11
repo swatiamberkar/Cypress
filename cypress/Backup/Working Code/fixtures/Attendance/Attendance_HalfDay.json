@@ -1,0 +1,53 @@
+[	
+	{
+		"ShiftName"						: 	"General",
+		
+		"FirstHalfEndAs_HH"				:	"13",
+		"FirstHalfEndAs_MM" 			: 	"00",
+		
+		"SecondHalfStartAs_HH" 			: 	"11",
+		"SecondHalfStartAs_MM" 			: 	"30",
+		
+		"EmployeeINTime_HH" 			: 	"11",
+		"EmployeeINTime_MM" 			: 	"30",
+	
+		"EmployeeOUTTime_HH" 			: 	"17",
+		"EmployeeOUTTime_MM" 			: 	"00",
+		
+		"WorkingHoursUpto_FullDay_HH" 	: 	"8",
+		"WorkingHoursUpto_FullDay_MM" 	: 	"0",
+		
+		"WorkingHoursUpto_From_HH" 		: 	"9",
+		"WorkingHoursUpto_From_MM" 		: 	"0",
+		
+		"WorkingHoursUpto_To_HH" 		: 	"13",
+		"WorkingHoursUpto_To_MM" 		: 	"0"
+		
+		
+   	} ,		
+	{
+		"ShiftName"						: 	"Second",
+		
+		"FirstHalfEndAs_HH"				:	"20",
+		"FirstHalfEndAs_MM" 			: 	"00",
+		
+		"SecondHalfStartAs_HH" 			: 	"20",
+		"SecondHalfStartAs_MM" 			: 	"1",
+		
+		"EmployeeINTime_HH" 			: 	"19",
+		"EmployeeINTime_MM" 			: 	"0",
+	
+		"EmployeeOUTTime_HH" 			: 	"20",
+		"EmployeeOUTTime_MM" 			: 	"0",
+		
+		"WorkingHoursUpto_FullDay_HH" 	: 	"23",
+		"WorkingHoursUpto_FullDay_MM" 	: 	"0",
+		
+		"WorkingHoursUpto_From_HH" 		: 	"19",
+		"WorkingHoursUpto_From_MM" 		: 	"1",
+		
+		"WorkingHoursUpto_To_HH" 		: 	"22",
+		"WorkingHoursUpto_To_MM" 		: 	"0"
+   	} 
+	
+]

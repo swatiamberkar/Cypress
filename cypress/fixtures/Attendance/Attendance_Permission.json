@@ -1,0 +1,37 @@
+[	
+	{
+		"ShiftName"									: 	"General",
+        "MaxHrsAllowedPerMonth_HH"					: 	"9",
+		"MaxHrsAllowedPerMonth_MM"					:	"00",
+		"MaxHrsAllowedPerDay_HH" 					: 	"3",
+		"MaxHrsAllowedPerDay_MM" 					: 	"00",
+		"MinHrsAllowedPerDay_HH" 					: 	"1",
+		"MinHrsAllowedPerDay_MM"					: 	"00",		
+		"NoOfPermissionsInaMonth" 					: 	"4",
+		"DeductionApplicable" 						: 	"No",
+		"DeductionFrom1stMinute" 					: 	"No",		
+		"AdjustedInLeave" 							: 	"No",
+		"AutoPermissionApplicable" 					: 	"No",
+		"ExceedingPermissionHoursWillBeConsiderAs" 	: 	"No",	
+		"PermissionHourRoundingType" 				: 	"Normal",
+		"PermissionHoursRoundingFor" 				: 	"Minutes15"
+   	} ,	
+	{
+		"ShiftName"									: 	"Second",
+       	"MaxHrsAllowedPerMonth_HH"					: 	"9",
+		"MaxHrsAllowedPerMonth_MM"					:	"00",
+		"MaxHrsAllowedPerDay_HH" 					: 	"3",
+		"MaxHrsAllowedPerDay_MM" 					: 	"00",
+		"MinHrsAllowedPerDay_HH" 					: 	"1",
+		"MinHrsAllowedPerDay_MM"					: 	"00",		
+		"NoOfPermissionsInaMonth" 					: 	"4",
+		"DeductionApplicable" 						: 	"No",
+		"DeductionFrom1stMinute" 					: 	"No",		
+		"AdjustedInLeave" 							: 	"No",
+		"AutoPermissionApplicable" 					: 	"No",
+		"ExceedingPermissionHoursWillBeConsiderAs" 	: 	"No",	
+		"PermissionHourRoundingType" 				: 	"Normal",
+		"PermissionHoursRoundingFor" 				: 	"Minutes15"
+   	} 
+	
+]

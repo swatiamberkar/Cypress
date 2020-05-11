@@ -1,0 +1,90 @@
+
+
+[	
+
+	
+     {   "FieldName"				:	"AHRA",
+		"Field"             :  "Arrear HRA",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+	
+	{   "FieldName"				: 	"FHRA",
+		"Field"             :  "Fixed HRA",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"Arrear HRA",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+	
+	{  "FieldName"				: 	"EHRA",
+		"Field"             :  "Earned HRA",
+		"Dirper" 				: 	"Percentage",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"(FHRA/MD)*PD",
+		"Percent" 				: 	"100",
+		"Maximum" 				: 	"100",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+	
+	{ "FieldName"				: 	"LOPCD",
+		"Field"             :  "LOP Credit days",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },	
+
+	{  "FieldName"				: 	"LOP",
+		"Field"             :  "Lop Basic",
+		"Dirper"				:	"Percentage",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"FB/MD*LOPCD",
+		"Percent" 				: 	"100",
+		"Maximum" 				: 	"100",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+	
+	{  "FieldName"				: 	"SD",
+		"Field"             :  "Supplementary Days",
+		"Dirper"				:	"Direct",
+		"Rounding" 				: 	"",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    },
+
+	{   "FieldName"				: 	"CONDITIONAL",
+		"Field"             :  "Conditional Earning",
+		"Dirper" 				: 	"Conditional",
+		"Rounding" 				: 	"1 Rupee",
+		"Formula" 				: 	"",
+		"Percent" 				: 	"",
+		"Maximum" 				: 	"",
+		"Arrear" 				: 	"",
+		"LOP Arrear" 			: 	"",
+		"Supplementary Arrear"	: 	""
+    }
+	
+]
